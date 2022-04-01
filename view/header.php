@@ -13,20 +13,20 @@
     <header>
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="">NPC</a>
+                <a class="navbar-brand" href="home.php">NPC</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                    <a class="nav-link" href="../index.php">Home</a>
+                        <a class="nav-link" href="home.php">Home</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="./view/create.php">Create Details</a>
+                        <a class="nav-link" href="create.php">Create Details</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="view/report.php">View Report</a>
+                        <a class="nav-link" href="report.php">View Report</a>
                     </li>    
                 </ul>
                 </div>
